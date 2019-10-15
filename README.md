@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is a repository for coursera capstone
+This is a repository for coursera capstone.
